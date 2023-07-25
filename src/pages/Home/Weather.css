@@ -1,0 +1,57 @@
+.Mainbody{
+    
+    height: 100%;
+}
+
+.Mainbody1 {
+  
+    height: 100%;
+}
+.Alignleft{
+    display: flex;
+    justify-content: start;
+}
+.AlignRight {
+    display: flex;
+    justify-content: end;
+}
+
+.Heading{
+font-family: "Belanosima";
+font-size: 50px !important;
+color: white;
+}
+
+.Heading1{
+    font-family: "Belanosima";
+    font-size: 50px !important;
+    color: black;
+}
+
+.Subheading{
+font-family: "Raleway";
+font-size: 30px !important;
+color: white;
+}
+.Subheading1 {
+    font-family: "Raleway";
+    font-size: 30px !important;
+    color: black;
+}
+
+.Para{
+    font-family: "Raleway";
+    font-size: 20px !important;
+    color: white;
+}
+.Para1 {
+    font-family: "Raleway";
+    font-size: 20px !important;
+    color: black;
+}
+.trans{
+    background-color: rgba(135, 128, 128, 0.329) !important;
+}
+.trans1 {
+    background-color: rgba(199, 184, 184, 0.329) !important;
+}
